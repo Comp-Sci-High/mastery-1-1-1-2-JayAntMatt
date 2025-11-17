@@ -2,13 +2,13 @@
 // Don't overthink the answers, anything is fine!
 // SECTION 1
 console.log("Q1. If you had to give a TED talk on anything, what would it be?")
-console.log("...")
+console.log("Parks")
 
 console.log("Q2. What's the last show/movie you watched that you would recommend?")
-console.log("...")
+console.log("Last movie I watched was Chainsawman")
 
 console.log("Q3. What is an activity you do to relax or destress?")
-console.log("...")
+console.log("Play video games")
 // Commit here! Reference README.md for section 2
 
 // SECTION 3

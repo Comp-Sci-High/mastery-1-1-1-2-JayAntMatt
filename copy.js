@@ -13,8 +13,8 @@ console.log("Play video games")
 
 // SECTION 3
 console.log("Q4. What's something you're really proud of but don't get to talk about often?")
-console.log("...")
+console.log("I did my latter test with ease")
 
 console.log("Q5. If you could travel anywhere, where would you go?")
-console.log("...")
+console.log("London")
 // Commit here!
